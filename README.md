@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou PH Barbosa
+# 
 
 Desenvolvedor **Sênior em Delphi**, especialista em sistemas de alta performance, manutenção de legados, otimização de código e desenvolvimento desktop. Também atuo com JavaScript/TypeScript, React e Node, mas minha principal expertise é **Delphi em todas as versões, desde o 5/7 até o 12 Athens**.
 
